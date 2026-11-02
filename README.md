@@ -88,7 +88,7 @@ The website was tested at the following screen widths:
 
 ## 🌐 Live Demo
 
-Add your deployed GitHub Pages link here.
+[Add your deployed GitHub Pages link here.](https://aladineesawe-genkemboi.github.io/iyf-s12-week-02-aladineesawe-GENKEMBOI/)
 
 ## 📝 Technical Article
 
